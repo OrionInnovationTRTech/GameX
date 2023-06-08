@@ -6,9 +6,9 @@
 
 ## Features
 
-- **View a list** of the given discover movie
-- **View a detail** of the given movie
-- **Search** for a movie
+- **View a list** of the given discover 
+- **View a detail** of the given 
+- **Search** for a 
 - **Login** a account
 - **RefreshData** when pull to refresh
 - **Localization** 
